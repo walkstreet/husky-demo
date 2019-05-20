@@ -85,6 +85,8 @@ module.exports = {
 https://juejin.im/post/5afc5242f265da0b7f44bee4
 
 ### 标准流程
+```
 git add .
 npm run commit
 git push
+```
